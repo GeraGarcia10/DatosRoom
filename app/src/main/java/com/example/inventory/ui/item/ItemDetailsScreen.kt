@@ -268,4 +268,3 @@ fun ItemDetailsScreenPreview() {
         ), onSellItem = {}, onDelete = {})
     }
 }
-
